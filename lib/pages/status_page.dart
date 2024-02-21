@@ -83,7 +83,7 @@ class StatusPage extends StatelessWidget {
               fontWeight: FontWeight.bold,
             ),
           ),
-          subtitle: Text("Hoy 10:00 a.m."),
+          subtitle: Text("Ayer 9:00 a.m."),
         ),
       ],
     );
